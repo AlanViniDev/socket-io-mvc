@@ -1,0 +1,18 @@
+{
+  "name": "socket-io",
+  "version": "1.0.0",
+  "description": "Troca de mensagem cliente-servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Vinicius F. de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "jquery": "^3.5.1",
+    "socket.io-client": "^2.3.0",
+    "socketio": "^1.0.0"
+  }
+}
