@@ -1,7 +1,7 @@
 {
   "name": "socket-io",
   "version": "1.0.0",
-  "description": "Troca de mensagem cliente-servidor",
+  "description": "Aplicação para troca de mensagens cliente-servidor",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
