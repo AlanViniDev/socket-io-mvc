@@ -1,3 +1,4 @@
+//função para importar biblioteca jquery
 exports.jquery = function (req, res) {
     const __dirname = "./";
    res.sendFile('view/assets/jquery.min.js' , { root : __dirname});

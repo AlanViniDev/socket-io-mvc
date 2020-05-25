@@ -1,3 +1,4 @@
+//função para importar arquivo javascript
 exports.javascript = function (req, res) {
     const __dirname = "./";
    res.sendFile('view/assets/js.js' , { root : __dirname});
